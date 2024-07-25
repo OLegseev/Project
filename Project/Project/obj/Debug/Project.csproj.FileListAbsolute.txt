@@ -1,0 +1,38 @@
+C:\Users\dsyil\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\dsyil\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\dsyil\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\dsyil\source\repos\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\dsyil\source\repos\Project\Project\obj\Debug\MainWindow.g.cs
+C:\Users\dsyil\source\repos\Project\Project\obj\Debug\App.g.cs
+C:\Users\dsyil\source\repos\Project\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\dsyil\source\repos\Project\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\dsyil\source\repos\Project\Project\obj\Debug\MainWindow.baml
+C:\Users\dsyil\source\repos\Project\Project\obj\Debug\Project.g.resources
+C:\Users\dsyil\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\dsyil\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\dsyil\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\dsyil\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\dsyil\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\dsyil\source\repos\Project\Project\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dsyil\source\repos\Project\Project\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dsyil\source\repos\Project\Project\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dsyil\source\repos\Project\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\bin\Debug\Project.exe.config
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\bin\Debug\Project.exe
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\bin\Debug\Project.pdb
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\obj\Debug\MainWindow.g.cs
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\obj\Debug\App.g.cs
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\obj\Debug\MainWindow.baml
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project.g.resources
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project.exe
+C:\Users\dsyil\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project.pdb
